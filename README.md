@@ -1,3 +1,3 @@
 # projeto_cultivo_dano
 
-Conjunto de dados utilizado para comparar se o algoritmo boruta iria ser viável ou não para o projeto ponta a ponta de aprendizado de máquina
+Projeto em python onde foi observado a eficácia do algoritmo boruta para a seleção de dados para treino e teste do algoritmo preditivo.
